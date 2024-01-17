@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1069016082647",
+    "firebase_url": "https://sd-muhammadiyah-01-kencong-default-rtdb.firebaseio.com",
+    "project_id": "sd-muhammadiyah-01-kencong",
+    "storage_bucket": "sd-muhammadiyah-01-kencong.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1069016082647:android:e1f273d1fec1749c8a2892",
+        "android_client_info": {
+          "package_name": "id.e_raportsdmuhammadiyah"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTkk3P28uNbYKG_hCeYsbJBYP9NudeRjE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
